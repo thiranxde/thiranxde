@@ -4,7 +4,7 @@
 
 ## 🌱 About Me
 - 🎓 Recent graduate in Software Engineering
-- 🌐 Skilled in *Java, **Spring, *.NET 8*, **C#*
+- 🌐 Skilled in *Java, *React*, **C#*
 - 🔥 Currently diving into *JWT Authentication* and learning *Spring Security*
 
 ## 🛠️ Technologies & Tools
@@ -18,11 +18,6 @@
 
 ## 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=chamathnim&show_icons=true&theme=radical" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamathnim&theme=radical" width="48%" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=thiranxde&show_icons=true&theme=radical" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiranxde&theme=radical" width="48%" alt="GitHub Streak">
 </p>
-
-## 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/chamath-nimnaada-1371b5208)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/ChamathNimnaada)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23111111.svg?logo=githubpages&logoColor=white&style=for-the-badge)](https://YourPortfolioLink.com)
