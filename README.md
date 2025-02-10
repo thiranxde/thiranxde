@@ -1,6 +1,6 @@
 # Hello, I'm Thiran De Silva 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=chamathnim&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=thiranxde&color=blue&style=flat-square)
 
 ## 🌱 About Me
 - 🎓 Recent graduate in Software Engineering
